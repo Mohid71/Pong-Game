@@ -5,8 +5,13 @@ A soccer-themed Pong game built with Python and Pygame. Play against an AI oppon
 ## How to Run
 
 1. Install Pygame:
-
+```bash
+pip install pygame
+```
 2. Run the game:
+```bash
+python main.py
+```
 
 ## Controls
 
